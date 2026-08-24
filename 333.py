@@ -3,7 +3,7 @@ import struct
 import threading
 
 HOST = "0.0.0.0"
-PORT = 1080
+PORT = 1337
 
 USERNAME = "gay"
 PASSWORD = "mts_sosal"
